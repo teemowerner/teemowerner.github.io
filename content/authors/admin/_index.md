@@ -45,7 +45,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#dong338338@naver.com' # For a direct email link, use "mailto:test@example.org".
-  - icon: blog
+  - icon: rss
     icon_pack: fab
     link: https://blog.naver.com/dong338338
   - icon: instagram
