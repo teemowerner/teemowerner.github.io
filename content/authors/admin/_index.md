@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 김동건
+title: 김동건(Cona)
 
 # Is this the primary user of the site?
 superuser: true
