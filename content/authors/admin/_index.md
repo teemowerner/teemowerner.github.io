@@ -44,13 +44,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'about/#dong338338@naver.com' # For a direct email link, use "mailto:test@example.org".
+  - icon: blog
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://blog.naver.com/dong338338
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/dokbaero/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
