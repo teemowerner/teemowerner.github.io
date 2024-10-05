@@ -1,4 +1,11 @@
 ---
+# Leave the homepage title empty to use the site title
+title: 
+date: 2024-03-25
+type: landing
+---
+
+<!-- # Use the Intro widget of the Blog template -->
 widget: about.avatar
 headless: true
 weight: 10
@@ -11,10 +18,6 @@ author: admin
 pdf 이력서를 다운받으실 수 있습니다. [이력서 다운 받으러가기](/about/) 😍
 
 ---
-
-title:
-date: 2024-03-25
-type: landing
 
 sections:
 
