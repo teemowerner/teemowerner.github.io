@@ -12,7 +12,6 @@ pdf 이력서를 다운받으실 수 있습니다. [이력서 다운 받으러�
 
 ---
 
-# Leave the homepage title empty to use the site title
 title:
 date: 2024-03-25
 type: landing
@@ -68,11 +67,8 @@ sections:
           url: contact
 
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '350px'
       is_fullscreen: true
-      # Automatically transition through slides?
       loop: true
-      # Duration of transition between slides (in ms)
       interval: 3000
 ---
