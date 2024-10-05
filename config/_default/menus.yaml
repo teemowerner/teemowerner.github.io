@@ -3,19 +3,45 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+# main:
+#   - name: Home
+#     url: /
+#     weight: 10
+#     icon: fas f
+#   - name: Resume
+#     url: about/
+#     weight: 20
+#   - name: Contests
+#     url: activities/
+#     weight: 30
+#   - name: Phone
+#     url: contact/
+#     weight: 40
+#   - name: Information
+#     url: information/
+#     weight: 50
 main:
   - name: Home
     url: /
     weight: 10
+    icon: fas fa-home  # Home 아이콘
+
   - name: Resume
     url: about/
     weight: 20
+    icon: fas fa-file-alt  # 이력서 아이콘
+
   - name: Contests
     url: activities/
     weight: 30
+    icon: fas fa-trophy  # 대회(트로피) 아이콘
+
   - name: Phone
     url: contact/
     weight: 40
+    icon: fas fa-phone  # 전화기 아이콘
+
   - name: Information
     url: information/
     weight: 50
+    icon: fas fa-info-circle  # 정보 아이콘
