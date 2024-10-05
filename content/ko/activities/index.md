@@ -1,34 +1,13 @@
-<!-- ---
-# An instance of the About widget.
-# Documentation: https://docs.hugoblox.com/page-builder/
-widget: activities 
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 10
-
-title: 공모전 수상 경력
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://docs.hugoblox.com/get-started/#introduce-yourself
-author: admin
---- -->
 ---
-title: Contact
+title: Activities
 date: 2022-10-24
 
 type: landing
 
 sections:
-  - block: contact
+  - block: Activities
     content:
-      title: Contact
+      title: Activities
       text: |-
         <br> <span style="font-size:95%">전북대학교 의료 AI 및 계산 수학 연구실 (Macs)의 학부연구생/석사 position에 관심 있으시면 아래로 연락주시면 감사드리겠습니다.</span> <br>
       email: ksl(at)jbnu.ac.kr
