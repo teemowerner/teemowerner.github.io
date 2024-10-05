@@ -51,10 +51,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/dokbaero/
-  -icon: phone
-    icon_pack: fas
-    link: tel:+821062397341
-
+    
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
