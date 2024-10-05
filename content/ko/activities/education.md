@@ -38,7 +38,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: 독일 튀빙겐
-    date_start: '2022-09-31'
+    date_start: '2022-09-29'
     date_end: '2023-08-31'
     description: 독일 튀빙겐대학교 컴퓨터공학부에서 2학기 동안 교환학생으로 수학하며, CS 및 머신러닝의 다양한 이론과 실무 지식을 습득하였습니다.
 
