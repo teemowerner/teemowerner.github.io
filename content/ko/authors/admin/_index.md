@@ -77,4 +77,4 @@ social:
 
 이 사이트에는 자기소개서, 제가 참가했던 공모전, 수상 경력 그리고 인턴 활동등이 포함되어 있습니다. 언제든지 연락 주세요! 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}다운로드{{< /staticref >}} 자기소개서를 Pdf 로 다운로드.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}다운로드{{< /staticref >}} 자기소개서를 Pdf 로 다운.
