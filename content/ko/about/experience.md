@@ -35,13 +35,13 @@ experience:
         * 자동화 SW 개발
         * .NET, C# 화면제작
 
-  - title: 아르바이트
-    company: El-Chico 멕시코 레스토랑
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: 독일 튀빙겐
-    date_start: '2023-02-01'
-    date_end: '2023-05-31'
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
