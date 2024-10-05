@@ -17,6 +17,6 @@ ko:
    description: Site description in Korean...
  menu:
    main:
-     - name: 传
+     - name: 연락처
        url: '#about'
        weight: 1
