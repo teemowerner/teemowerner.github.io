@@ -35,17 +35,23 @@ item:
     organization: 네이버
     organization_url: https://www.naver.com
     title: Neural Networks and Deep Learning
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
+  - date_end: ''
+    date_start: '2024-05-01'
+    description: 'https://m.news.nate.com/view/20240707n09100
+보도자료
+
+전국 출산율 데이터, 급여, 시군구 지원 장려금, 교육 예산 등 23 개의 데이터, 200여 개 시군구로 데이터 전처리 후 모델링에 사용.
+
+이후 출산율에 영향을 미치는 상관관계가 큰 변수 를 도출
+
+비지도 학습(K-means 알고리즘을 사용)으로 전주시와 여건이 비슷한 시군구를 분류, 비슷한 시군구의 정책적인 요소 중 전주시보다 출산율이 우수한 시도와 정책을 비교 후 전주시에 정책 개선을 제안'
+    organization: 전북특별자치도
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    title: 전북보건데이터 경진대회 금상
+    url: https://m.news.nate.com/view/20240707n09100
   - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_end: '2024-06-25'
+    date_start: '2024-05-01'
     description: ''
     organization: DataCamp
     organization_url: https://www.datacamp.com
