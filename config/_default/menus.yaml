@@ -7,7 +7,7 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resumé
+  - name: Resume
     url: about/
     weight: 20
   - name: Contests
@@ -16,3 +16,6 @@ main:
   - name: Phone
     url: contact/
     weight: 40
+  - name: Information
+    url: information/
+    weight: 50
