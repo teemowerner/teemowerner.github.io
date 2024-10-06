@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
-widget: 자격증
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
