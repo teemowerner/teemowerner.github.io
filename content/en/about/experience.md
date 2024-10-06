@@ -21,28 +21,89 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+# experience:
+#   - title: Intern
+#     company: Daifuku Korea
+#     company_url: ''
+#     company_logo: org-gc
+#     location: Incheon
+#     date_start: '2024-07-01'
+#     date_end: ''
+#     description: |2-
+#         직무 기술:
+#         * 다이후쿠코리아 에서 2024년 하계 인턴으로 근무하였습니다.
+#         * 업계: Material Handling (물류 자동화)
+#         * 주요 업무:
+#           - 고객사의 데이터베이스(DB)와 자사 시스템 간의 FTP, Socket 통신 시스템 구축
+#           - 재고 만량 알고리즘 개발: 재고 관리 및 만량 탐지 알고리즘 구현
+#           - 납품된 물류자동화 시스템의 비즈니스 로직을 화면에 표시하는 프론트엔드 개발
+#         * 프로그래밍 언어:
+#           - Java: 재고 관리 시스템 개발
+#           - .NET: 고객사로 납품되는 재고관리 시스템의 프론트엔드 개발
+#         * 데이터베이스:
+#           - Oracle: 데이터베이스 관리 및 쿼리 작성
+#           - PostgreSQL: 데이터베이스 관리 및 자바 기반 컨트롤러 기술 습득
+#         * 업무 성과:
+#           - 고객사의 데이터베이스와 자사 시스템 간 원활한 데이터 통신 시스템 구축
+#           - 재고 만량 알고리즘 개발을 통해 재고 관리 효율성 증대
+#           - 사용자가 비즈니스 로직을 쉽게 이해할 수 있도록 프론트엔드 화면 구현
+#         * 이 경험을 통해 Material Handling 업계에서의 실무 경험을 쌓고, 다양한 기술 스택을 활용하여 소프트웨어 개발 및 데이터베이스 개발 능력을 길렀습니다.
+
+#   - title: 아르바이트
+#     company: 엘치코
+#     company_url: ''
+#     company_logo: org-x
+#     location: 독일 튀빙겐
+#     date_start: '2023-02-01'
+#     date_end: '2023-07-01'
+#     description: |2-
+#         * 직원 교육 및 일정 관리: 독일 직원들에게 업무 수행에 필요한 교육을 제공하고, 일정을 관리하여 효율적인 업무 수행을 돕습니다.
+#         * 수익성 평가 및 개선: 매출과 비용을 분석하여 수익성을 평가하고, 개선 방안을 모색합니다. 이를 통해 레스토랑의 수익성을 향상.
+#         * Excel을 통해 입고/출고 기록을 저장하였고, 레스토랑의 운영에 필요한 재료와 물품을 안정적으로 공급.
+
+# design:
+#   columns: '1'
+# ---
+
 experience:
-  - title: 인턴
-    company: 다이후쿠코리아
+  - title: Intern
+    company: Daifuku Korea
     company_url: ''
     company_logo: org-gc
-    location: 인천
+    location: Incheon
     date_start: '2024-07-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * 자동화 SW 개발
-        * .NET, C# 화면제작
+        Job Description:
+        * Worked as a Summer Intern at Daifuku Korea in 2024.
+        * Industry: Material Handling (Logistics Automation)
+        * Key Responsibilities:
+          - Built FTP and socket communication systems between customer databases and in-house systems
+          - Developed a full-stock detection algorithm for inventory management
+          - Developed the front-end to display the business logic of the delivered logistics automation system
+        * Programming Languages:
+          - Java: Developed the inventory management system
+          - .NET: Developed the front-end for the inventory management system delivered to clients
+        * Databases:
+          - Oracle: Managed databases and wrote queries
+          - PostgreSQL: Managed databases and developed Java-based controllers
+        * Achievements:
+          - Built a seamless data communication system between customer databases and in-house systems
+          - Improved inventory management efficiency through the development of a full-stock detection algorithm
+          - Implemented a front-end interface to help users easily understand the business logic
+        * Through this experience, I gained practical experience in the Material Handling industry and developed software and database development skills using various technology stacks.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Part-time Worker
+    company: El Chico
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Tübingen, Germany
+    date_start: '2023-02-01'
+    date_end: '2023-07-01'
+    description: |2-
+        * Staff Training and Scheduling: Provided necessary training for German staff to perform their tasks and managed schedules to ensure efficient workflow.
+        * Profitability Evaluation and Improvement: Analyzed revenue and expenses to assess profitability and sought ways to improve it, contributing to enhancing the restaurant’s profitability.
+        * Maintained records of incoming and outgoing supplies via Excel, ensuring a stable supply of ingredients and materials needed for the restaurant’s operations.
 
 design:
   columns: '1'

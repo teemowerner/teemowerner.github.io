@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Boot Camp
       tag: ML
-    - name: Computer Vision
+    - name: 공모전
       tag: CV
-    - name: NLP
+    - name: 기타
       tag: NLP
 
 design:
