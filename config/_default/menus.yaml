@@ -36,7 +36,7 @@ main:
     weight: 30
     icon: fas fa-trophy  # 대회(트로피) 아이콘
 
-  - name: Phone
+  - name: Certificate
     url: contact/
     weight: 40
     icon: fas fa-phone  # 전화기 아이콘
