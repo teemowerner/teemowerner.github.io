@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: 전주시보건데이터공모전
+summary: 금상(1등)
 tags:
   - CV
-date: 2022-01-01
-external_link: http://github.com
+date: 2024-05-01
+external_link: https://m.news.nate.com/view/20240707n09100
 ---
